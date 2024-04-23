@@ -3,8 +3,6 @@ Simplified computer graphic simulation of the solar to earth moon system
 
 Demonstration Video Link: https://vimeo.com/659769588
 
-Computer Graphics: Implementation and Explanation
-by Jules Bloomenthal 
 
 ## Objective
 The goal of the project was to create a simplified solar system that showcases the Moon, Earth,
